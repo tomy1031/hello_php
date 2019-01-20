@@ -5,9 +5,9 @@ body {
   color: #f8f8f2;
 }
 .md-typeset .codehilitetable {
-  margin-left:-20px;
-  margin-right: -20px;
+  margin-left:0px;
   border-radius: 0;
+  width: 100%;
 }
 .md-typeset .codehilitetable .linenodiv {
   background-color: #222 !important;
